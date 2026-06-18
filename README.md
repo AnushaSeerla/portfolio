@@ -40,7 +40,7 @@ AlphaResearch and Voice Health Navigator projects
 
 ## 📧 8572694478
 
-**Email:** anusha.seerla@gmsil.com  
+**Email:** anusha.seerla@gmail.com  
 **GitHub:** [github.com/AnushaSeerla](https://github.com/AnushaSeerla)  
 **Location:** Dallas, Texas, USA
 
