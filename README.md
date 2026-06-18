@@ -34,7 +34,7 @@ GPA: 3.8/4.0
 
 ## 📂 Projects
 
-*(Coming Soon - Add your AlphaResearch and Voice Health Navigator projects here)*
+AlphaResearch and Voice Health Navigator projects 
 
 ---
 
